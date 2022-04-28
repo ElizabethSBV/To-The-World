@@ -1,0 +1,39 @@
+
+#img{
+    height: 500;
+    width: 300;
+    padding-bottom: 22px;
+}
+#encabezado{
+    color: rgba(58, 57, 57, 0.856);
+    font-size: 18px;
+    text-align: center;
+}
+#ult{
+    align-content: center;
+}
+#pag1im{
+    height: auto;
+    width: auto;
+    padding-right: 20px;
+}
+#tit2{
+    font-size: 60px;
+    color: rgb(46, 53, 51);
+    text-align: center;
+    padding-bottom: 50px;
+}
+.card-title{
+    padding: 8px;
+    color: rgb(39, 99, 99);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.texc{
+    text-align: justify;
+    color: rgb(0, 56, 56);
+}
+#pp1{
+    padding-top: 50px;
+}

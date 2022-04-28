@@ -1,0 +1,50 @@
+#navh{
+    background-color: rgb(29, 165, 142);
+}
+#navbar{
+    background-color: rgb(61, 167, 162);
+}
+
+.link{
+    color: black;
+}
+
+#btncol{
+    background-color: rgb(13, 189, 180);   
+}
+#offcanvasWithBothOptions{
+    width: fit-content;
+    background-color: rgb(207, 236, 227);
+}
+.contenido{
+    padding-top: 30px;
+}
+p{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(87, 81, 81);
+}
+#Titulo{
+    color: rgb(68, 65, 65);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top: 10px;
+    text-align: center;
+}
+h3{
+    color: rgb(46, 53, 51);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-bottom: 5px;
+}
+#remar{
+    font-size: 13px;
+    text-align: center;
+    padding-top: 3px;
+}
+.imagen{
+    height: 500px;
+    width: 100px;
+    padding-top: 35px;
+    padding-left: 10px;
+}
