@@ -1,8 +1,8 @@
 #navh{
-    background-color: rgb(29, 165, 142);
+    background-color: rgb(29, 165, 81);
 }
 #navbar{
-    background-color: rgb(61, 167, 162);
+    background-color: rgb(61, 167, 114);
 }
 
 .link{
@@ -10,7 +10,7 @@
 }
 
 #btncol{
-    background-color: rgb(13, 189, 180);   
+    background-color: rgb(13, 189, 116);   
 }
 #offcanvasWithBothOptions{
     width: fit-content;
